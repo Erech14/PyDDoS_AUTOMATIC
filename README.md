@@ -13,7 +13,7 @@
 
 Клонирование репозитория
 
-git clone https://github.com/Erech14/PyDDoS_AVTOMATIC.git
+```git clone https://github.com/Erech14/PyDDoS_AVTOMATIC.git```
 
 
 Установка пакетов
