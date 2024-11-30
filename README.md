@@ -13,16 +13,17 @@
 
 Клонирование репозитория
 
-```git clone https://github.com/Erech14/PyDDoS_AVTOMATIC.git```
+```bash
+git clone https://github.com/Erech14/PyDDoS_AVTOMATIC.git
 
 
 Установка пакетов
 
 ```bash
-pip install socket```
+pip install socket
 
-```
-pip install threading```
+```bash
+pip install threading
 
 # Запуск
  
