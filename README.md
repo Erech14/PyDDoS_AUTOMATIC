@@ -15,13 +15,13 @@
 
 ```bash
 git clone https://github.com/Erech14/PyDDoS_AVTOMATIC.git
-
+```
 
 Установка пакетов
 
 ```bash
 pip install socket
-
+```
 ```bash
 pip install threading
 ```
