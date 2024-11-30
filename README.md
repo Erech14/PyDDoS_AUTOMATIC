@@ -18,8 +18,11 @@
 
 Установка пакетов
 
-```pip install socket```
-```pip install threading```
+```bash
+pip install socket```
+
+```
+pip install threading```
 
 # Запуск
  
