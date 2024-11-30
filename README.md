@@ -24,7 +24,7 @@ pip install socket
 
 ```bash
 pip install threading
-
+```
 # Запуск
  
 1. Запустите файл bot.py на устройствах, с которых будет проводиться атака. 
