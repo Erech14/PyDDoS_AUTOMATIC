@@ -1,6 +1,11 @@
 import socket
 import threading
 
+print("Version: 1.0.0(BETA)")
+print("LICENSE: Modified MIT")
+print("!!!ВАЖНО: НЕ ИСПОЛЬЗУЙТЕ ЭТОТ КОД С ЦЕЛЬЮ НАНЕСТИ ВРЕД КОМУ-ЛИБО!!!")
+print("!!!ДАННОЕ ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ИМЕЕТ ТОЛЬКО ОБРАЗОВАТЕЛЬНУЮ ЦЕЛЬ!!!")
+print("!!!АВТОР ПРОГРАММЫ СНИМАЕТ С СЕБЯ ВСЮ ОТВЕТСТВЕННОСТЬ ЗА ИСПОЛЬЗОВАНИЕ ЭТОГО СОФТА!!!")
 def scan_ports(target, start_port, end_port):
     for port in range(start_port, end_port + 1):
         try:
