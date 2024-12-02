@@ -1,5 +1,11 @@
 import socket
 
+print("Version: 1.0.0(BETA)")
+print("LICENSE: Modified MIT")
+print("!!!ВАЖНО: НЕ ИСПОЛЬЗУЙТЕ ЭТОТ КОД С ЦЕЛЬЮ НАНЕСТИ ВРЕД КОМУ-ЛИБО!!!")
+print("!!!ДАННОЕ ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ИМЕЕТ ТОЛЬКО ОБРАЗОВАТЕЛЬНУЮ ЦЕЛЬ!!!")
+print("!!!АВТОР ПРОГРАММЫ СНИМАЕТ С СЕБЯ ВСЮ ОТВЕТСТВЕННОСТЬ ЗА ИСПОЛЬЗОВАНИЕ ЭТОГО СОФТА!!!")
+
 def send_command(target_ip, target_port, command):
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     try:
