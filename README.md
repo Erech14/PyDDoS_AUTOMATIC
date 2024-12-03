@@ -1,4 +1,4 @@
-# PyDDoS_AVTOMATIC 
+# PyDDoS_AUTOMATIC
 # VERSION: 1.0.0(BETA)
 При помощи этой программы можно атаковать любое устройство, имеющее IPv4-адрес.
 
