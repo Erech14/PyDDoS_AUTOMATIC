@@ -1,4 +1,5 @@
 # PyDDoS_AUTOMATIC
+https://github.com/Erech14/PyDDoS_AUTOMATIC/blob/e6a13adde0325041140aa1a3a5708eac73aaba5f/LOGO_DDoS.PNG
 # VERSION: 1.0.0(BETA)
 При помощи этой программы можно атаковать любое устройство, имеющее IPv4-адрес.
 
