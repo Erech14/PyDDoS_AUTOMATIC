@@ -23,7 +23,7 @@
 Клонирование репозитория
 
 ```bash
-git clone https://github.com/Erech14/PyDDoS_AVTOMATIC.git
+git clone https://github.com/Erech14/PyDDoS_AUTOMATIC.git
 ```
 
 Установка пакетов
